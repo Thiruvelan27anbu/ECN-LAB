@@ -24,13 +24,15 @@
 
 **CIRCUIT DIAGRAM:**
 
-<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/0dbbd8fb-d2de-4102-a700-07dc68ee81f0" />
+<img width="985" height="1600" alt="image" src="https://github.com/user-attachments/assets/a59e1bc8-8ebf-43ef-bf85-4e412c7f733d" />
 
 **TABULAR COLUMN**
-<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/c285824c-c102-45a5-894d-f4879ec311c0" />
+<img width="1600" height="971" alt="image" src="https://github.com/user-attachments/assets/75aaaeae-1e00-4371-8af8-fece95ee7682" />
 
 **CALCULATION**
-<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/fd7c5715-aeca-4232-b7bc-ff12f8a36091" />
+<img width="1191" height="1435" alt="image" src="https://github.com/user-attachments/assets/f3bf7e68-f7fb-46d1-9ab7-bc76621026e1" />
+<img width="1308" height="1463" alt="image" src="https://github.com/user-attachments/assets/ddab8b8e-2331-4390-9283-fe2241e60b3d" />
+
 
 
 
@@ -60,10 +62,12 @@
 
  **MARK SPLITUP**
 
- <img width="844" height="1436" alt="image" src="https://github.com/user-attachments/assets/43fb4e2f-e6da-4847-9433-fc65f48c4aa4" />
+<img width="1600" height="1352" alt="image" src="https://github.com/user-attachments/assets/94013157-b6a3-469c-b9ff-2b0dd4e4cb6d" />
 
 
 **RESULT:**
+<img width="1441" height="549" alt="image" src="https://github.com/user-attachments/assets/2eb20ac6-c635-4f0c-ba4e-ba6eef839af0" />
+
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
